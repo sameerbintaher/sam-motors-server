@@ -1,1 +1,1 @@
-server sam motors
+SAM-MOTORS Server
